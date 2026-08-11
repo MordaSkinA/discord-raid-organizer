@@ -1,4 +1,5 @@
 **BOT IS STILL IN DEVELOPEMENT**
+
 A feature-rich Discord bot built with **Disnake** for managing guild events, raid sign-ups, and roster management in MMORPG *Where Winds Meet* for NA-guild
 
 ---
